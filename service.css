@@ -64,7 +64,7 @@ p{
     position: relative;
     text-align: left;
     font-size: 125%;
-    bottom: 350px;
+    bottom: 750px;
     left: 530px;
     color: rgb(39, 36, 30);
 }
@@ -73,7 +73,7 @@ p1{
     position: relative;
     text-align: left;
     font-size: 125%;
-    bottom: 350px;
+    bottom: 750px;
     left: 530px;
     color: rgb(39, 36, 30);
 }
@@ -82,12 +82,49 @@ p2{
     position: relative;
     text-align: left;
     font-size: 125%;
-    bottom: 350px;
+    bottom: 760px;
     left: 610px;
     color: rgb(39, 36, 30);
     font-size: medium;
 }
 
 a{
-    color:rgb(69, 54, 109);
+    color:rgb(138, 95, 14);
+}
+
+i{
+    position:relative;
+    bottom:336px;
+    left:115px;
+}
+
+
+h2{
+    font-size: 120%;
+    position: relative;
+    top:110px;
+    left:140px;
+}
+
+h2 a{
+    color:  rgb(39, 36, 30);
+    text-decoration: none;
+}
+h2 a:hover{
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 120%;
+    position: relative;
+    top:110px;
+    left:190px;
+}
+
+h3 a{
+    color:  rgb(39, 36, 30);
+    text-decoration: none;
+}
+h3 a:hover{
+    text-decoration: underline;
 }

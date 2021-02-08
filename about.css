@@ -18,6 +18,7 @@ body{
     position: fixed;
     top: 0;
     left: 0;
+
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -58,28 +59,18 @@ h1{
     color: rgb(95, 43, 43);
 }
 
+h2{
+    position: relative;
+    bottom: 350px;
+    left: 100px;
+}
+
 p1{
     position: relative;
-    text-align: left;
-    font-size: x-large;
-    bottom: 755px;
-    left: 1300px;
-    color: rgb(39, 36, 30);
-}
-
-p2{
-    position: relative;
-    font-size: large;
-    bottom: 750px;
-    left: 1270px;
-    color: rgb(39, 36, 30);
-}
-
-p3{
-    position: relative;
-    font-size: x-large;
-    bottom: 870px;
-    left: 550px;
+    text-align: center;
+    font-size: 160%;
+    bottom: 300px;
+    left: 490px;
     color: rgb(39, 36, 30);
 }
 
@@ -87,10 +78,11 @@ a{
     color:rgb(138, 95, 14);
 }
 
+
 i{
     position:relative;
-    bottom:336px;
-    left:115px;
+    bottom:756px;
+    left:70px;
 }
 
 

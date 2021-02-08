@@ -68,12 +68,49 @@ h2{
 p{
     position: relative;
     text-align: left;
-    font-size: 125%;
-    bottom: 370px;
+    font-size: 115%;
+    bottom: 830px;
     left: 600px;
     color: rgb(39, 36, 30);
 }
 
 a{
-    color:rgb(69, 54, 109);
+    color:rgb(138, 95, 14);
+}
+
+i{
+    position:relative;
+    bottom:336px;
+    left:115px;
+}
+
+
+h2{
+    font-size: 120%;
+    position: relative;
+    top:110px;
+    left:140px;
+}
+
+h2 a{
+    color:  rgb(39, 36, 30);
+    text-decoration: none;
+}
+h2 a:hover{
+    text-decoration: underline;
+}
+
+h3{
+    font-size: 120%;
+    position: relative;
+    top:110px;
+    left:190px;
+}
+
+h3 a{
+    color:  rgb(39, 36, 30);
+    text-decoration: none;
+}
+h3 a:hover{
+    text-decoration: underline;
 }

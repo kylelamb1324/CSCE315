@@ -6,7 +6,7 @@
 
 body{
     background-image: url(lightgrey.jpg);
-    
+    background-repeat: no-repeat;
     min-height: 100%;
     min-width: 1024px;
       
@@ -58,41 +58,20 @@ h1{
     color: rgb(95, 43, 43);
 }
 
-p1{
+p{
     position: relative;
     text-align: left;
-    font-size: x-large;
-    bottom: 755px;
-    left: 1300px;
-    color: rgb(39, 36, 30);
-}
-
-p2{
-    position: relative;
-    font-size: large;
-    bottom: 750px;
-    left: 1270px;
-    color: rgb(39, 36, 30);
-}
-
-p3{
-    position: relative;
-    font-size: x-large;
-    bottom: 870px;
-    left: 550px;
-    color: rgb(39, 36, 30);
-}
-
-a{
-    color:rgb(138, 95, 14);
+    font-size: 150%;
+    bottom: 300px;
+    left: 520px;
+    color:  rgb(39, 36, 30);
 }
 
 i{
     position:relative;
-    bottom:336px;
+    bottom:700px;
     left:115px;
 }
-
 
 h2{
     font-size: 120%;
